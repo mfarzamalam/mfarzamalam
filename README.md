@@ -9,6 +9,6 @@
 - 💬 Ask me about RESTFUL API
 - ⚡ Fun fact: Good at building logic cause i'm an overthinker
 - 📫 How to reach me: mfarzamalam@gmail.com
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/farzam-alam-69112421b/">
+<a href="https://www.linkedin.com/in/farzam-alam-69112421b/">
 <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"; alt="Linkedin">
 </a>
