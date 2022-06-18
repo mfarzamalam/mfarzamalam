@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Farzam Alam
 
-**Pythonista / Introvert / Nerd / Bug Hunter**
+**Pythonista / Nerd / Bug Hunter**
 
 - 🔭 I’m currently working on Python/Django
 - 🌱 I’m currently learning Docker and Kubernetes
