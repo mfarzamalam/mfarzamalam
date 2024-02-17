@@ -2,7 +2,7 @@
 
 **Pythonista / Nerd / Bug Hunter**
 
-- 🔭 I’m currently working on Python/Django
+- 🔭 I’m currently working on Python/Django/FastAPI
 - 🌱 I’m currently learning Docker and Kubernetes
 - 👯 I’m looking to collaborate with other Django developers
 - 🤔 I’m looking for help with people experience in DevOps
